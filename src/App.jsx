@@ -5,9 +5,7 @@ import About from './Components/About'
 import Experience from './Components/Experience'
 import Tech from './Components/Tech'
 import Works from './Components/Works'
-import Feedbacks from './Components/Feedbacks'
 import Contact from './Components/Contact'
-import Stars from './Components/canvas/Stars'
 import Cp from './Components/Cp'
 
 const App = () => {
