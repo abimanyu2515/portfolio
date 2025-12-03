@@ -1,9 +1,7 @@
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import MailOutlineIcon from '@mui/icons-material/MailOutline';
-import InstagramIcon from '@mui/icons-material/Instagram';
 import { motion } from 'framer-motion'
-import SouthIcon from '@mui/icons-material/South';
 
 const Hero = () => {
   return (
