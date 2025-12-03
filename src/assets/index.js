@@ -16,12 +16,15 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
+// import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import bootstrap from "../assets/tech/bootstrap.png"
 import fastapi from '../assets/tech/fastapipng.png'
+import python from './tech/py.png';
+import postgres from './tech/postgres.png';
+import github_tech from './tech/github.png';
 
 import hepto from './company/hepto.png'
 import zeex from './company/zeex.jpg'
@@ -42,12 +45,12 @@ export {
   docker,
   figma,
   git,
+  github_tech,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
@@ -57,5 +60,7 @@ export {
   hepto,
   zeex,
   bootstrap,
-  fastapi
+  fastapi,
+  python,
+  postgres
 };
