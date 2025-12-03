@@ -15,7 +15,7 @@ const Cp = () => {
             variants={fadeIn("", "", 0.1, 1)}
             className="mt-4 p-2  border  text-red-400 text-[17px] leading-[30px] hover:bg-red-700 hover:text-white"
           >
-            LEETCODE <br /> Secured contest rating of 1472 at the top 53.67% globally and solved 415 problems using Python.
+            LEETCODE <br /> Secured max contest rating of 1472 at the top 53.67% globally and solved 450+ problems using Python.
           </motion.p>
           </a>
 
