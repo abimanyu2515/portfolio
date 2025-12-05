@@ -29,9 +29,9 @@ const Contact = () => {
 
       <div className='flex max-sm:flex-col max-sm:gap-1 gap-10'>
         <Tilt className='mt-5 max-sm:w-full w-sm h-sm p-5 flex items-center border-2 border-blue-700 bg-blue-700 rounded-lg hover:bg-transparent'>
-          <a className='w-full' href="https://www.linkedin.com/in/abimanyu-s-251b55321/">
+          <a className='w-full' href="www.linkedin.com/in/abimanyu-sd/">
             <h2>LinkedIn</h2>
-            <span className="text-sm">www.linkedin.com/in/abimanyu-s-251b55321/</span>
+            <span className="text-sm">www.linkedin.com/in/abimanyu-sd/</span>
           </a>
         </Tilt>
 
