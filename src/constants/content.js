@@ -1,5 +1,5 @@
 import {
-  backend, web, javascript, typescript, reactjs, tailwind, nodejs, mongodb, git, figma, hepto, zeex, threejs, bootstrap, fastapi, python, postgres, github_tech, carrent, jobit, tripguide
+  backend, web, javascript, typescript, html, css, reactjs, tailwind, nodejs, mongodb, git, figma, hepto, zeex, threejs, bootstrap, fastapi, python, postgres, github_tech, carrent, jobit, tripguide
 } from "../assets";
 
 export const navLinks = [
@@ -34,6 +34,26 @@ const services = [
 
 const technologies = [
   {
+    name: "HTML 5",
+    icon: html,
+  },
+  {
+    name: "CSS 3",
+    icon: css,
+  },
+  {
+    name: "JavaScript",
+    icon: javascript,
+  },
+  {
+    name: "TypeScript",
+    icon: typescript,
+  },
+  {
+    name: "Python",
+    icon: python,
+  },
+  {
     name: "React JS",
     icon: reactjs,
   },
@@ -48,21 +68,6 @@ const technologies = [
   {
     name: "Three JS",
     icon: threejs,
-  },{
-    name: "JavaScript",
-    icon: javascript,
-  },
-  {
-    name: "TypeScript",
-    icon: typescript,
-  },
-  {
-    name: "FastAPI",
-    icon: fastapi
-  },
-  {
-    name: "PostgreSQL",
-    icon: postgres,
   },
   {
     name: "git",
@@ -73,8 +78,12 @@ const technologies = [
     icon: github_tech,
   },
   {
-    name: "Python",
-    icon: python,
+    name: "FastAPI",
+    icon: fastapi
+  },
+  {
+    name: "PostgreSQL",
+    icon: postgres,
   },
 ];
 
