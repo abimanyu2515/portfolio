@@ -19,9 +19,9 @@ import reactjs from "./tech/reactjs.png";
 // import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+import threejs from "./tech/three.png";
 import bootstrap from "../assets/tech/bootstrap.png"
-import fastapi from '../assets/tech/fastapipng.png'
+import fastapi from '../assets/tech/fastapi.png'
 import python from './tech/py.png';
 import postgres from './tech/postgres.png';
 import github_tech from './tech/github.png';
