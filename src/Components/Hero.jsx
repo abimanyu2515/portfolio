@@ -14,7 +14,7 @@ const Hero = () => {
 
         <div>
           <h1 className='font-black text-white lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2'>Hi, I am <span className='text-[#915eff]'>Abimanyu</span></h1>
-          <p className='mt-5 text-[#dfd9ff] font-extralight lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px]'>one who sculpts with code and paint with pixels.</p>
+          <p className='mt-5 text-[#dfd9ff] font-extralight lg:text-[30px] sm:text-[26px] xs:text-[20px] text-[16px] lg:leading-[40px]'>one who sculpts with code and paints with pixels.</p>
           
           <button className='mt-10 p-2 border-2 border-indigo-600 bg-blue-700 text-white rounded-md hover:bg-transparent hover:cursor-pointer'>
             <a href="https://flowcv.com/resume/7859qes4vsgj">Resume</a>

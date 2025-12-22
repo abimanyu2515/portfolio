@@ -108,10 +108,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2025 - Aug 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Integrated secure login and signup functionality with JWT authentication and token expiry in a CCTV surveillance site using react.js, FastAPI, and PostgreSQL, improving operational efficiency by 65%.",
+      "Implemented role-based user management and route handling for administrators and general users, reducing the risk of unauthorized access by minimizing manual errors.",
+      "Revamped blog page of organization's website, refined visual appeal and UI with react.js and Tailwind CSS.",
     ],
   },
 ];
