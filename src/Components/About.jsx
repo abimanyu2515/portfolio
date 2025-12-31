@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-blue-200 text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a Web developer with skills in both front-end and backend tools like react.js, FastAPI, MySql and Postgres also a competitive programmer completed 450+ problems in LeetCode using Python. 
+        I am a Web developer with skills in both front-end and backend tools like react.js, FastAPI, MySql and Postgres also a competitive programmer completed 475+ problems in LeetCode using Python. 
       </motion.p>
 
       <div className="mt-20 flex flex-wrap max-sm:justify-center gap-10">
