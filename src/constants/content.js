@@ -1,5 +1,5 @@
 import {
-  backend, web, javascript, typescript, html, css, reactjs, tailwind, nodejs, mongodb, git, figma, hepto, zeex, threejs, bootstrap, fastapi, python, postgres, github_tech, carrent, jobit, tripguide
+  backend, web, javascript, typescript, html, css, reactjs, tailwind, nodejs, mongodb, git, figma, next, hepto, zeex, threejs, bootstrap, fastapi, python, postgres, github_tech, carrent, jobit, tripguide
 } from "../assets";
 
 export const navLinks = [
@@ -58,6 +58,10 @@ const technologies = [
     icon: reactjs,
   },
   {
+    name: "Next JS",
+    icon: next,
+  },
+  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -113,6 +117,7 @@ const experiences = [
       "Revamped blog page of organization's website, refined visual appeal and UI with react.js and Tailwind CSS.",
     ],
   },
+  
 ];
 
 const projects = [
@@ -145,6 +150,23 @@ const projects = [
     name: "Smart Irrigation and Crop Monitoring System",
     description:
       "Automated irrigation and threat protection system for farmers with Integrated Arduino IoT sensors.",
+    tags: [
+      {
+        name: "C",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Internet of Things",
+        color: "green-text-gradient",
+      }
+    ],
+    source_code_link: "https://github.com/",
+  },
+
+  {
+    name: "Signalist - Stock Tracker App",
+    description:
+      "Built a stock market tracking web application for real-time price visualization, watchlists, and company insights.",
     tags: [
       {
         name: "C",

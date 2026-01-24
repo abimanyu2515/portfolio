@@ -25,6 +25,7 @@ import fastapi from '../assets/tech/fastapi.png'
 import python from './tech/py.png';
 import postgres from './tech/postgres.png';
 import github_tech from './tech/github.png';
+import next from './tech/next.jpg';
 
 import hepto from './company/hepto.png'
 import zeex from './company/zeex.jpg'
@@ -62,5 +63,6 @@ export {
   bootstrap,
   fastapi,
   python,
-  postgres
+  postgres,
+  next
 };
