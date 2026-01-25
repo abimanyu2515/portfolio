@@ -147,26 +147,29 @@ const projects = [
   },
 
   {
-    name: "Smart Irrigation and Crop Monitoring System",
+    name: "Signalist - Stock Tracker App",
     description:
-      "Automated irrigation and threat protection system for farmers with Integrated Arduino IoT sensors.",
+      "Built a stock market tracking web application for real-time price visualization, watchlists, and company insights.",
     tags: [
       {
-        name: "C",
+        name: "Next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "Internet of Things",
+        name: "Tailwind CSS",
         color: "green-text-gradient",
+      },
+      {
+        name: "Better Auth",
+        color: "blue-text-gradient",
       }
     ],
     source_code_link: "https://github.com/",
   },
-
   {
-    name: "Signalist - Stock Tracker App",
+    name: "Smart Irrigation and Crop Monitoring System",
     description:
-      "Built a stock market tracking web application for real-time price visualization, watchlists, and company insights.",
+      "Automated irrigation and threat protection system for farmers with Integrated Arduino IoT sensors.",
     tags: [
       {
         name: "C",

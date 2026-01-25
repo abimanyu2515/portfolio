@@ -5,7 +5,7 @@ import { textVariant, fadeIn } from '../utils/motion'
 
 const Cp = () => {
     return (
-        <div className=''>
+        <div>
           <motion.div variants={textVariant()}>
             <h2 className={`${styles.sectionHeadText}`}>Competitive Programming.</h2>
           </motion.div>
@@ -15,7 +15,7 @@ const Cp = () => {
             variants={fadeIn("", "", 0.1, 1)}
             className="mt-4 p-2  border  text-red-400 text-[17px] leading-[30px] hover:bg-red-700 hover:text-white"
           >
-            LEETCODE <br /> Secured max contest rating of 1508 at the top 41.66% globally and solved 475+ problems using Python.
+            LEETCODE <br /> Secured max contest rating of 1508 at the top 41.66% globally and solved 500+ problems using Python.
           </motion.p>
           </a>
 
