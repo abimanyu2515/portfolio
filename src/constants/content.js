@@ -147,22 +147,30 @@ const projects = [
   },
 
   {
-    name: "Signalist - Stock Tracker App",
+    name: "QueryFi - A RAG-Powered Finance Assistant App",
     description:
-      "Built a stock market tracking web application for real-time price visualization, watchlists, and company insights.",
-    tags: [
+      "Built a full-stack finance assistant app with Next.js, Express/​MongoDB, and transaction management with RAG pipeline.",
+      tags: [
       {
         name: "Next.js",
         color: "blue-text-gradient",
       },
       {
-        name: "Tailwind CSS",
+        name: "MongoDB",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "Express",
         color: "green-text-gradient",
       },
       {
-        name: "Better Auth",
+        name: "Ollama",
         color: "blue-text-gradient",
-      }
+      },
+      {
+        name: "Qdrant",
+        color: "green-text-gradient",
+      },
     ],
     source_code_link: "https://github.com/",
   },
